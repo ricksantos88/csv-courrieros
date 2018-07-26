@@ -13,7 +13,7 @@ public class CSVCourrierosReader {
 
 	public static void main(String[] args) {
 
-		File CSVfile = new File("C:\\Users\\wende\\Documents\\courrieros.csv");
+		File CSVfile = new File(".csv location");
 		
 		try {
 			
